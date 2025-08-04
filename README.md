@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Priyom Datta</h1>
 <h3 align="center">A passionate learner</h3>
 
-- 🌱 I’m currently learning **Cpp, Matlab**
+- 🌱 I’m currently learning **Microcontroller Architecture, Cpp,AUTOSAR and Matlab,**
 
 - 📫 How to reach me **priyomdat@gmail.com**
 
